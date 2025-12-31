@@ -1,10 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="Banner" />
+  <img src="https://i.ibb.co.com/3V5xpDQ/linkedin-banner1.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Mahfujul Hasan</h1>
-<h3 align="center">MERN Stack Developer | Aspiring Full-Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Aspiring Full-Stack Developer | React, Next.js, Node.js, MongoDB | Remote-Ready | Fresher</h3>
 
 ---
 
