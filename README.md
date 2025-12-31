@@ -66,15 +66,13 @@ PASSION & GOALS
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfujul-hasan&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahfujul-hasan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujul-hasan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfujul-hasan&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujul-hasan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfujul-hasan&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 
