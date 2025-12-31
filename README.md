@@ -56,20 +56,10 @@ PASSION & GOALS
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfujul-hasan)](https://github.com/Mahfujul-hasan/github-readme-stats)
-## 📊 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Mahfujul-hasan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mahfujul-hasan&show_icons=true&theme=default" alt="Mahfujul-hasan's GitHub stats" />
-  </a>
-</p>
+## My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Mahfujul-hasan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfujul-hasan&theme=default" alt="Mahfujul-hasan's GitHub streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mahfujul-hasan)](https://git.io/streak-stats)
 
 
 ## Connect With Me
