@@ -26,21 +26,18 @@ PASSION & GOALS
 • Passionate about problem-solving and continuous learning
 • Focused on growing into a professional Full-Stack Developer through MERN projects
 
-CONTACT
-• Email: mahfujulsirat00@gmail.com
-• GitHub: github.com/Mahfujul-hasan
 
 ---
 
-## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and advanced React patterns  
-- 💻 Building full-stack projects using the **MERN stack**  
-- 🔍 Improving problem-solving and code quality  
-- 🎯 Preparing for **remote, part-time developer opportunities**
+## Current Activities
+-  Exploring **Next.js** and advanced React patterns  
+-  Building full-stack projects using the **MERN stack**  
+-  Preparing for **remote, part-time developer opportunities**
+-  Improving problem-solving and code quality  
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Frontend
 <p>
@@ -59,14 +56,14 @@ CONTACT
 
 ---
 
-## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/mahfujul-hasan-dev
-- 📧 Email: mahfujulhasan.dev@gmail.com
-- 📞 Contact: +8801876800680
+## Connect With Me
+-  LinkedIn: https://www.linkedin.com/in/mahfujul-hasan-dev
+-  Email: mahfujulhasan.dev@gmail.com
+-  Contact: +8801876800680
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
 </p>
