@@ -65,15 +65,15 @@ PASSION & GOALS
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahfujul-hasan&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfujul-hasan" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfujul-hasan&layout=compact" />
 </p>
 
 
