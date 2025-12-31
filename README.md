@@ -43,9 +43,9 @@ Currently, I am focused on improving my full-stack skills through real-world pro
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- 💼 LinkedIn: https://www.linkedin.com/in/mahfujul-hasan-dev
 - 📧 Email: mahfujulhasan.dev@gmail.com
-- 📞 Contact: +8801XXXXXXXXX
+- 📞 Contact: +8801876800680
 
 ---
 
