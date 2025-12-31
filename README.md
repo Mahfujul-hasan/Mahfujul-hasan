@@ -56,6 +56,7 @@ PASSION & GOALS
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfujul-hasan)](https://github.com/Mahfujul-hasan/github-readme-stats)
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahfujul-hasan&show_icons=true&theme=default" />
