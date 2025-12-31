@@ -3,15 +3,32 @@
   <img src="https://your-banner-image-link-here" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mahfujul Hasan</h1>
+<h1 align="center">Hi, I'm Mahfujul Hasan</h1>
 <h3 align="center">MERN Stack Developer | Aspiring Full-Stack Developer</h3>
 
 ---
 
-## 👨‍💻 About Me
-I am a MERN Stack Developer (Fresher) with hands-on experience in building responsive and scalable web applications.  
-I enjoy working with modern JavaScript technologies and turning ideas into functional web solutions.  
-Currently, I am focused on improving my full-stack skills through real-world projects.
+## About Me
+MERN Stack Developer (Fresher) with hands-on experience in building responsive and scalable full-stack web applications.
+
+TECHNICAL EXPERTISE
+• MERN Stack: MongoDB, Express.js, React, Node.js
+• React, Next.js, Tailwind CSS, Redux
+• RESTful APIs, TypeScript, Git
+
+CAREER ACHIEVEMENTS
+• Built multiple full-stack projects with real-world features
+• Developed modular and reusable React components to improve maintainability
+
+
+PASSION & GOALS
+• Seeking remote, part-time opportunities
+• Passionate about problem-solving and continuous learning
+• Focused on growing into a professional Full-Stack Developer through MERN projects
+
+CONTACT
+• Email: mahfujulsirat00@gmail.com
+• GitHub: github.com/Mahfujul-hasan
 
 ---
 
