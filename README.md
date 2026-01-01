@@ -9,22 +9,9 @@
 ---
 
 ## About Me
-MERN Stack Developer (Fresher) with hands-on experience in building responsive and scalable full-stack web applications.
-
-TECHNICAL EXPERTISE
-• MERN Stack: MongoDB, Express.js, React, Node.js
-• React, Next.js, Tailwind CSS, Redux
-• RESTful APIs, TypeScript, Git
-
-CAREER ACHIEVEMENTS
-• Built multiple full-stack projects with real-world features
-• Developed modular and reusable React components to improve maintainability
-
-
-PASSION & GOALS
-• Seeking remote, part-time opportunities
-• Passionate about problem-solving and continuous learning
-• Focused on growing into a professional Full-Stack Developer through MERN projects
+MERN Stack Developer (Fresher) skilled in building responsive full-stack web apps with MongoDB, Express.js, React, Node.js, Next.js, and Tailwind CSS.
+Experienced in RESTful APIs, TypeScript, Git, and creating modular, reusable React components through real-world projects.
+Passionate about problem-solving, continuous learning, and seeking remote, part-time opportunities to grow as a Full-Stack Developer.
 
 
 ---
