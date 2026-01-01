@@ -59,7 +59,7 @@ PASSION & GOALS
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mahfujul-hasan)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mahfujul-hasan" alt="GitHub Streak" /></a>
 
 
 ## Connect With Me
