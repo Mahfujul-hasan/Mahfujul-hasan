@@ -59,7 +59,6 @@ PASSION & GOALS
 
 ## My GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mahfujul-hasan)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahfujul-hasan)
 
 
