@@ -60,8 +60,8 @@ PASSION & GOALS
 ## My GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahfujul-hasan)
-![GitHub Streak](https://github-readme-stats.vercel.app/api/streak-stats?user=Mahfujul-hasan&theme=dark&locale=en)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfujul-hasan&theme=dark&hide_border=true&layout=compact)
 
 
 
